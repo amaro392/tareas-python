@@ -46,3 +46,4 @@ def calculadora():
         else:
             print("Opción inválida. Por favor ingrese un número válido (1/2/3/4/5).")
 
+calculadora()
